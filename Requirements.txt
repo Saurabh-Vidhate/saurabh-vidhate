@@ -82,6 +82,7 @@ parso                         0.8.3
 pathspec                      0.10.3
 pexpect                       4.8.0
 pickleshare                   0.7.5
+pickle                        4.0
 Pillow                        9.5.0
 pip                           23.2.1
 pipreq                        0.4
